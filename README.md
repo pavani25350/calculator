@@ -1,2 +1,2 @@
 # calculator
-Made a "Real-time calculator.
+Made a "Real-time calculator".
